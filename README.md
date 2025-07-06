@@ -23,13 +23,20 @@ Webex Online Webinar Platform
 
 <Details>
   
-### Week 1 : Spearker - Mr.Raja Singh Yadav   
+### Week 1 : Speaker - Mr.Raja Singh Yadav   
 • Introduction to Linear Algebra
 
 • Qniverse Platform Demonstration
 
-• Implementaion of Algorithm using Qniverse.
+### Week 2 : Speaker - Mr.Tilock Sadhukhan
+• Introduction to Mathematics of Quantum Computing
 
+• Introduction to Quantum Gates
+
+### Week 3 : Speaker - Mr.Harishankar Mishra
+• Deustch Jozsa Algorithm
+
+• Implemeantion of Deustch Jozsa Algorithm using Qniverse
 
 </Details>
 
