@@ -4,7 +4,7 @@
 
 Organized by [Centre for Development of Advanced Computing, Bangalore](https://www.cdac.in/) With the support of Ministry of Electronics and Information Technology (MeitY), Government of India.
 
-## Webinar Series Details
+## Webinar Series Details :
 
 ### Series Duration :
 14 WEEKS 
@@ -16,13 +16,32 @@ Organized by [Centre for Development of Advanced Computing, Bangalore](https://w
 Every Wednesday 04:00 PM IST to 05:00 PM IST
 
 ### Series Mode : 
-Webex Online Webinar Platform (Every Session links will be sent to registered mail id & Posted in Zulip Announcement Channel) 
+Webex Online Webinar Platform 
+(Every Session link will be provided through registered mail id & will be posted in Zulip Announcement Channel) 
 
-## Course FAQ
+## Webinar Series Topics ::
+
+<Details>
+  
+### Week 1 : Spearker - Mr.Raja Singh Yadav   
+• Introduction to Linear Algebra
+
+• Qniverse Platform Demonstration
+
+• Implementaion of Algorithm using Qniverse.
+
+
+</Details>
+
+
+## Series FAQ
 
 ## Important Links:
 
 - Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/ede4eiabs3z4zbl7wwvmnva4/) . This is the only official discussion forum platform.
-- Access to [Qniverse](https://qniverse.in/) can be register through following link [Registration Link](https://qniverse.in/register/).
+- Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/).
+
+## Prerequisites 
+Basic knowledge of Quantum Computing and Python
 
 ## Contact Email Id: qniverse@cdac.in
