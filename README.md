@@ -93,7 +93,42 @@ Webex Online Webinar Platform
 </Details>
 
 
-## Webinar Series FAQ
+## FAQ
+<Details>
+
+### 1. Who can attend this webinar series?
+• Anyone with basic knowledge of Quantum Computing and Python programming including students, researchers, faculty, and working professionals.
+
+### 2. Is there any registration fee?
+• No, the webinar series is completely free of charge.
+
+### 3. Do I need to register?
+• Yes, registration is required. We will send the Webinar Session links directly to your registered mail 1–2 days before each webinar.
+
+### 4. What is the duration and format of the webinar?
+• The series runs for 14 weeks, with one session every Wednesday 4 PM - 5 PM, conducted online through Webex & Youtube Live Stream.
+
+### 5. Will the sessions be recorded?
+• Yes, recordings and slides/materials will be made available after each session, Recordings will be available on [Qniverse YouTube Channel](https://www.youtube.com/@qniversedotin) & Slides/Materials will be made available at [Qniverse Zulip Chatroom](https://qniverse.zulipchat.com/) and [Github](https://github.com/C-DAC-Bengaluru/Quantum-Algorithms-Webinar-Series)
+
+### 6. I am unable to join through the Webex link (room full). How can I attend the live session?
+• If the Webex room is full, please join the session via the [YouTube live Stream](https://www.youtube.com/@qniversedotin).
+
+### 7. Is there a discussion forum for Webinar-related queries?
+• Yes, a discussion forum is available at [Qniverse Zulip Chatroom](https://qniverse.zulipchat.com/), Qniverse Zulip ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/ede4eiabs3z4zbl7wwvmnva4/)
+
+### 8. I was not available to attend the live sessions.
+• No problem! Session recordings [YouTube links](https://www.youtube.com/@qniversedotin) and session slied will be made
+available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum-Algorithms-Webinar-Series), so you can catch up at your convenience.
+
+### 9. When will I receive the participation certificate?
+• Certificates will be issued after the completion of the 14-week series. A form will be shared where participants can enter the name they want on the certificate and the email address where they wish to receive the soft copy of the certification.
+
+### 10. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
+• Send mail to qniverse@cdac.in for inquiries.
+  
+</Details>
+
 
 ## Important Links:
 
