@@ -10,7 +10,7 @@ Organized by [Centre for Development of Advanced Computing, Bangalore](https://w
 ### Series Duration :
 14 WEEKS 
 
-### Series Starts From  
+### Series Starts From : 
 09 July 2025 
 
 ### Series Timings : 
@@ -18,8 +18,6 @@ Every Wednesday 04:00 PM IST to 05:00 PM IST
 
 ### Series Mode : 
 Webex Online Webinar Platform (Every Session links will be sent to registered mail id & Posted in Zulip Announcement Channel) 
- 
-<Details>
 
 ## Course FAQ
 
