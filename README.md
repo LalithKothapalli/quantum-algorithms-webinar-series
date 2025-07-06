@@ -19,7 +19,7 @@ Every Wednesday 04:00 PM IST to 05:00 PM IST
 Webex Online Webinar Platform 
 (Every Session link will be provided through registered mail id & will be posted in Zulip Announcement Channel) 
 
-## Webinar Series Schedule ::
+## Webinar Series Schedule :
 
 <Details>
   
@@ -93,7 +93,7 @@ Webex Online Webinar Platform
 </Details>
 
 
-## Series FAQ
+## Webinar Series FAQ
 
 ## Important Links:
 
