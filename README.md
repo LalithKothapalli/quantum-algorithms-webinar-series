@@ -7,7 +7,7 @@ Organized by [Centre for Development of Advanced Computing, Bangalore](https://w
 ## Webinar Series Details :
 
 ### Series Duration :
-14 WEEKS 
+14 Weeks
 
 ### Series Starts From : 
 09 July 2025 
@@ -99,6 +99,9 @@ Webex Online Webinar Platform
 
 - Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/ede4eiabs3z4zbl7wwvmnva4/) . This is the only official discussion forum platform.
 - Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/).
+- Qniverse [YouTube Channel Link](https://www.youtube.com/@qniversedotin) where all webinar series will be live stream, those who failed to join webinar through wbex link may join YouTube Live Stream.
+
+
 
 ## Prerequisites 
 Basic knowledge of Quantum Computing and Python
