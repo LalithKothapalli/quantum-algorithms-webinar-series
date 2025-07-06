@@ -115,7 +115,7 @@ Webex Online Webinar Platform
 • If the Webex room is full, please join the session via the [YouTube live Stream](https://www.youtube.com/@qniversedotin).
 
 ### 7. Is there a discussion forum for Webinar-related queries?
-• Yes, a discussion forum is available at [Qniverse Zulip Chatroom](https://qniverse.zulipchat.com/), Qniverse Zulip ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/ede4eiabs3z4zbl7wwvmnva4/)
+• Yes, a discussion forum is available at [Qniverse Zulip Chatroom](https://qniverse.zulipchat.com/), Qniverse Zulip ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/dlrumfd5l26jhsh5lo6y7knl/)
 
 ### 8. I was not available to attend the live sessions.
 • No problem! Session recordings [YouTube links](https://www.youtube.com/@qniversedotin) and session slied will be made
@@ -132,7 +132,7 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 
 ## Important Links:
 
-- Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/ede4eiabs3z4zbl7wwvmnva4/) . This is the only official discussion forum platform.
+- Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/dlrumfd5l26jhsh5lo6y7knl/) . This is the only official discussion forum platform.
 - Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/).
 - Qniverse [YouTube Channel Link](https://www.youtube.com/@qniversedotin) where all webinar series will be live stream, those who failed to join webinar through wbex link may join YouTube Live Stream.
 
