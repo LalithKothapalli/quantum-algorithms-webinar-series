@@ -19,7 +19,7 @@ Every Wednesday 04:00 PM IST to 05:00 PM IST
 Webex Online Webinar Platform 
 (Every Session link will be provided through registered mail id & will be posted in Zulip Announcement Channel) 
 
-## Webinar Series Topics ::
+## Webinar Series Schedule ::
 
 <Details>
   
@@ -34,9 +34,61 @@ Webex Online Webinar Platform
 • Introduction to Quantum Gates
 
 ### Week 3 : Speaker - Mr.Harishankar Mishra
-• Deustch Jozsa Algorithm
+• Deutsch Jozsa Algorithm
 
-• Implemeantion of Deustch Jozsa Algorithm using Qniverse
+• Implemeantion of Deutsch Jozsa Algorithm using Qniverse
+
+### Week 4 : Speaker - Mr.Tilock Sadhukhan
+• Bernstein-Vazirani Algorithm
+
+• Implemeantion of Bernstein-Vazirani Algorithm using Qniverse
+
+### Week 5 : Speaker - Mr.Tilock Sadhukhan
+• Simon's Algorithm
+
+• Implemeantion of Simon's Algorithm using Qniverse
+
+### Week 6 : Speaker - Mr.Harishankar Mishra
+• Grovers Search Algorithm
+
+• Implemeantion of Grovers Search Algorithm using Qniverse
+
+### Week 7 : Speaker - Dr.Divyash Shrimali
+• Quantum Fourier Transform & Quantum Phase Estimation Algorithm
+
+• Implemeantion of QFT & QPE Algorithms using Qniverse
+
+### Week 8 : Speaker - Dr.Divyash Shrimali
+• Shor's Algorithm
+
+• Implemeantion of Shor's Algorithm using Qniverse
+
+### Week 9 : Speaker - Mr. Raja Singh Yadav
+• Quantum Teleportation and Superdense Coding Protocols
+
+• Implemeantion of Quantum Teleportation and Superdense Coding Protocols using Qniverse
+
+### Week 10 : Speaker - Mr. Raja Singh Yadav
+• Variational Quantum Eigensolver Hybrid Hybrid Quantum-Classical Algorithm
+
+• Implemeantion of Variational Quantum Eigensolver Algorithm using Qniverse
+
+### Week 11 : Speaker - Ms. HR Jeevitha
+• Quantum Error Correction 
+
+• QEC Shor’s 9-Qubit Code
+
+• Implemeantion of QEC using Qniverse
+
+### Week 14 : Speaker - Mr. Sachin Namdeo
+• Introduction to Quantum Machine Learning
+
+### Week 13 : Speaker - Mr. Sachin Namdeo
+• QSVM & QKmean Algorithms
+
+• Implemeantion of QSVM & QKmean Algorithms using Qniverse
+
+
 
 </Details>
 
