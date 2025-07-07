@@ -17,7 +17,7 @@ Every Wednesday 04:00 PM IST to 05:00 PM IST
 
 ### Series Mode : 
 Webex Online Webinar Platform 
-(Every Session link will be provided through registered mail id & will be posted in Zulip Announcement Channel) 
+(Every Session link will be provided through  GitHub Page & will be posted in Zulip Announcement Channel as well).
 
 ## Webinar Series Schedule :
 
@@ -27,68 +27,6 @@ Webex Online Webinar Platform
 • Introduction to Linear Algebra
 
 • Qniverse Platform Demonstration
-
-### Week 2 : Speaker - Mr.Tilock Sadhukhan
-• Introduction to Mathematics of Quantum Computing
-
-• Introduction to Quantum Gates
-
-### Week 3 : Speaker - Mr.Harishankar Mishra
-• Deutsch Jozsa Algorithm
-
-• Implemeantion of Deutsch Jozsa Algorithm using Qniverse
-
-### Week 4 : Speaker - Mr.Tilock Sadhukhan
-• Bernstein-Vazirani Algorithm
-
-• Implemeantion of Bernstein-Vazirani Algorithm using Qniverse
-
-### Week 5 : Speaker - Mr.Tilock Sadhukhan
-• Simon's Algorithm
-
-• Implemeantion of Simon's Algorithm using Qniverse
-
-### Week 6 : Speaker - Mr.Harishankar Mishra
-• Grovers Search Algorithm
-
-• Implemeantion of Grovers Search Algorithm using Qniverse
-
-### Week 7 : Speaker - Dr.Divyash Shrimali
-• Quantum Fourier Transform & Quantum Phase Estimation Algorithm
-
-• Implemeantion of QFT & QPE Algorithms using Qniverse
-
-### Week 8 : Speaker - Dr.Divyash Shrimali
-• Shor's Algorithm
-
-• Implemeantion of Shor's Algorithm using Qniverse
-
-### Week 9 : Speaker - Mr. Raja Singh Yadav
-• Quantum Teleportation and Superdense Coding Protocols
-
-• Implemeantion of Quantum Teleportation and Superdense Coding Protocols using Qniverse
-
-### Week 10 : Speaker - Mr. Raja Singh Yadav
-• Variational Quantum Eigensolver Hybrid Hybrid Quantum-Classical Algorithm
-
-• Implemeantion of Variational Quantum Eigensolver Algorithm using Qniverse
-
-### Week 11 : Speaker - Ms. HR Jeevitha
-• Quantum Error Correction 
-
-• QEC Shor’s 9-Qubit Code
-
-• Implemeantion of QEC using Qniverse
-
-### Week 14 : Speaker - Mr. Sachin Namdeo
-• Introduction to Quantum Machine Learning
-
-### Week 13 : Speaker - Mr. Sachin Namdeo
-• QSVM & QKmean Algorithms
-
-• Implemeantion of QSVM & QKmean Algorithms using Qniverse
-
-
 
 </Details>
 
@@ -103,7 +41,7 @@ Webex Online Webinar Platform
 • No, the webinar series is completely free of charge.
 
 ### 3. Do I need to register?
-• Yes, registration is required. We will send the Webinar Session links directly to your registered mail 1–2 days before each webinar.
+• Yes, registration is required. Every Session link will be provided through GitHub Page & will be posted in Zulip Announcement Channel as well
 
 ### 4. What is the duration and format of the webinar?
 • The series runs for 14 weeks, with one session every Wednesday 4 PM - 5 PM, conducted online through Webex & Youtube Live Stream.
@@ -118,14 +56,14 @@ Webex Online Webinar Platform
 • Yes, a discussion forum is available at [Qniverse Zulip Chatroom](https://qniverse.zulipchat.com/), Qniverse Zulip ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/dlrumfd5l26jhsh5lo6y7knl/)
 
 ### 8. I was not available to attend the live sessions.
-• No problem! Session recordings [YouTube links](https://www.youtube.com/@qniversedotin) and session slied will be made
+• No problem! Session recordings [YouTube links](https://www.youtube.com/@qniversedotin) and session slides will be made
 available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum-Algorithms-Webinar-Series), so you can catch up at your convenience.
 
 ### 9. When will I receive the participation certificate?
 • Certificates will be issued after the completion of the 14-week series. A form will be shared where participants can enter the name they want on the certificate and the email address where they wish to receive the soft copy of the certification.
 
 ### 10. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
-• Send mail to qniverse@cdac.in for inquiries.
+• You may send email to qniverse@cdac.in for inquiries
   
 </Details>
 
@@ -133,7 +71,7 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 ## Important Links:
 
 - Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/dlrumfd5l26jhsh5lo6y7knl/) . This is the only official discussion forum platform.
-- Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/).
+- Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/), for all your hands-on activities..
 - Qniverse [YouTube Channel Link](https://www.youtube.com/@qniversedotin) where all webinar series will be live stream, those who failed to join webinar through wbex link may join YouTube Live Stream.
 
 
