@@ -59,7 +59,7 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 • Certificates will be issued after the completion of the 14-week series. A form will be shared where participants can enter the name they want on the certificate and the email address where they wish to receive the soft copy of the certification.
 
 ### 10. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
-• You may send email to qniverse@cdac.in for inquiries
+• You may send email to qniverse@cdac.in for inquiries, and also, close to the end of the program, we shall announce the details to all the participants.
   
 </Details>
 
