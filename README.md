@@ -23,8 +23,7 @@ Webex Online Webinar Platform
 
 | Week | Topic                             | Speaker              | Day        | Date         | Time               |
 |------|-----------------------------------|----------------------|------------|--------------|--------------------|
-| 1    | • Introduction to Linear Algebra  | Mr. Raja Singh Yadav | Wednesday  | July 9, 2025 | 4:00 PM  - 5:00 PM |
-|      | • Qniverse Platform Demonstration |                      |            |              |                    |
+| 1    | • Introduction to Linear Algebra & Qniverse Platform Demonstration | Mr. Raja Singh Yadav | Wednesday  | July 9, 2025 | 4:00 PM  - 5:00 PM |
 
 
 ## FAQ
