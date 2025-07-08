@@ -21,9 +21,9 @@ Webex Online Webinar Platform
 
 ## Webinar Series Schedule :
 
-| Week | Topic                             | Speaker              | Day        | Date         | Time               | Session Link |
-|------|-----------------------------------|----------------------|------------|--------------|--------------------|--------------|
-| 1    | Introduction to Quantum Computing | TBA | Wednesday  | July 9, 2025 | 4:00 PM  - 5:30 PM |        |
+| Week | Topic                             | Speaker              | Day        | Date         | Time               | Session Link | Session Password  |
+|------|-----------------------------------|----------------------|------------|--------------|--------------------|--------------|-------------------|
+| 1    | Introduction to Quantum Computing | TBA | Wednesday  | July 9, 2025 | 4:00 PM  - 5:30 PM | [Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m4c84fa60b2fb00aa9215f32ae84b7022)|Quantum@123|
 
 
 ## FAQ
