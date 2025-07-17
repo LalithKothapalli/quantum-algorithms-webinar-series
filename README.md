@@ -58,8 +58,8 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 ### 9. When will I receive the participation certificate?
 • Certificates will be issued after the completion of the 14-week series.
 
-### 10. What is Attendance Criteria of getting participation certificate?
-• Your Webinar Attendance must be 75% or Above
+### 10. What is the Attendance Criteria of getting participation certificate?
+• Your Webinar Attendance must be 75% or Above.
 
 ### 11. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
 • You may send email to qniverse@cdac.in for inquiries, and also, close to the end of the program, we shall announce the details to all the participants.
