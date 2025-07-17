@@ -56,9 +56,12 @@ Webex Online Webinar Platform
 available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum-Algorithms-Webinar-Series), so you can catch up at your convenience.
 
 ### 9. When will I receive the participation certificate?
-• Certificates will be issued after the completion of the 14-week series. A form will be shared where participants can enter the name they want on the certificate and the email address where they wish to receive the soft copy of the certification.
+• Certificates will be issued after the completion of the 14-week series.
 
-### 10. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
+### 10. What is Attendance Criteria of getting participation certificate?
+• Your Webinar Attendance must be 75% or Above
+
+### 11. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
 • You may send email to qniverse@cdac.in for inquiries, and also, close to the end of the program, we shall announce the details to all the participants.
   
 </Details>
