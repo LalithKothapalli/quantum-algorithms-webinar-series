@@ -63,7 +63,10 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 ### 10. What is the Attendance Criteria of getting participation certificate?
 • Your Webinar Attendance must be 75% or Above.
 
-### 11. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
+### 11 I failed to attend the webinar live session through webex due to some reason how can I mark my attendance ?
+• If you were unable to attend the webinar session live through Webex, you can still watch the recorded session on YouTube. After watching, please make sure to mark your attendance by clicking the attendance link provided in the video description of that Particular Session. [Qniverse Youtube Channel](https://www.youtube.com/@qniversedotin/playlists)
+
+### 12. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
 • You may send email to qniverse@cdac.in for inquiries, and also, close to the end of the program, we shall announce the details to all the participants.
   
 </Details>
