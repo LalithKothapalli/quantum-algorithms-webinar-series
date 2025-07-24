@@ -26,7 +26,7 @@ Webex Online Webinar Platform
 | Week 1  | Introduction to Quantum Computing | Prof. Apoorva D. Patel, IISC Bangalore | Wednesday  | July 9, 2025 | 4:00 PM  - 5:30 PM | [Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m4c84fa60b2fb00aa9215f32ae84b7022)|Quantum@123| |
 | Week 2    | Introduction and Demonstration of Qniverse | Mr. Henry Sukumar S, C-DAC Bangalore | Wednesday  | July 16, 2025 | 4:00 PM  - 5:30 PM | [Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m06ec069364da3749e582e6a3b6346256)|Quantum@123|[Take A Quiz](https://forms.gle/JowWzVPXGqpupDbm9) |
 | Special Intermediate Session    | Qubits and Gates: Building Blocks of Quantum Computing | Dr. Naresh Raghava, Scientific Researcher, C-DAC Bangalore | Monday  | July 21, 2025 | 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ac368ecafc35060556d355a7cff5080)|Quantum@123| [Take A Quiz](https://forms.gle/vGu155KGiamrUetz8) |
-| Week 3    | Quantum Veto Protocol | Prof. Anirban Pathak, Professor and HOD of Physics and Materials Science and Engineering, JIIT | Wednesday  | July 23, 2025 | 4:00 PM  - 5:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mc878ae5f298b1fb3d2dc501ee456d037)| Quantum@123| |
+| Week 3    | Quantum Veto Protocol | Prof. Anirban Pathak, Professor and HOD of Physics and Materials Science and Engineering, JIIT | Wednesday  | July 23, 2025 | 4:00 PM  - 5:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mc878ae5f298b1fb3d2dc501ee456d037)| Quantum@123|[Take A Quiz](https://forms.gle/hTFV1CLM95TymNhB8) |
 
 
 ## FAQ
