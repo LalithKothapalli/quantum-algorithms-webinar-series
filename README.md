@@ -58,7 +58,7 @@ Webex Online Webinar Platform
 available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum-Algorithms-Webinar-Series), so you can catch up at your convenience.
 
 ### 9. When will I receive the participation certificate?
-• Certificates will be issued after the completion of the 14-week series.
+• Only e-Certificate will be issued by C-DAC for participation, e-Certificate will be issued after the completion of the 14-week series.
 
 ### 10. What is the Attendance Criteria of getting participation certificate?
 • Your Webinar Attendance must be 75% or Above.
