@@ -13,7 +13,7 @@ Organized by [Centre for Development of Advanced Computing, Bangalore](https://w
 09 July 2025 
 
 ### Series Timings : 
-Every Wednesday 04:00 PM IST to 05:00 PM IST
+Every Wednesday 05:30 PM IST to 06:30 PM IST
 
 ### Series Mode : 
 Webex Online Webinar Platform 
