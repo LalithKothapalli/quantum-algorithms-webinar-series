@@ -78,6 +78,7 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 
 ## Important Links:
 
+- Qniverse WhatsApp Public Channel [https://whatsapp.com/channel/0029VbB3ily1nozEvMlTOX20](https://whatsapp.com/channel/0029VbB3ily1nozEvMlTOX20)
 - Zulip Quantum Webinar Series ChatRoom [Invitation Link](https://qniverse.zulipchat.com/join/dlrumfd5l26jhsh5lo6y7knl/) . This is the only official discussion forum platform.
 - Register to [Qniverse](https://qniverse.in/) through following link [Registration Link](https://qniverse.in/register/), for all your hands-on activities..
 - Qniverse [YouTube Channel Link](https://www.youtube.com/@qniversedotin) where all webinar series will be live stream, those who failed to join webinar through wbex link may join YouTube Live Stream.
