@@ -29,7 +29,7 @@ Webex Online Webinar Platform
 | Week 3    | Quantum Veto Protocol | Prof. Anirban Pathak, Professor and HOD of Physics and Materials Science and Engineering, JIIT | Wednesday  | July 23, 2025 & 4:00 PM  - 5:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mc878ae5f298b1fb3d2dc501ee456d037)|[Take A Quiz](https://forms.gle/hTFV1CLM95TymNhB8) |
 | Week 4    | Deutsch - Jozsa Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | July 30, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mce95e78096f808bc72100de722f1f6b1)||
 
-Note: Session Password: Quantum@123
+**Note: Session Password:** Quantum@123
 ## FAQ
 <Details>
 
