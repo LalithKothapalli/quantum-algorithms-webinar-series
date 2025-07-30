@@ -27,7 +27,7 @@ Webex Online Webinar Platform
 | Week 2    | Introduction and Demonstration of Qniverse | Mr. Henry Sukumar S, C-DAC Bangalore | Wednesday  | July 16, 2025 & 4:00 PM  - 5:30 PM | [Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m06ec069364da3749e582e6a3b6346256)|[Take A Quiz](https://forms.gle/JowWzVPXGqpupDbm9) |
 | Special Intermediate Session    | Qubits and Gates: Building Blocks of Quantum Computing | Dr. Naresh Raghava, Scientific Researcher, C-DAC Bangalore | Monday  | July 21, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m1ac368ecafc35060556d355a7cff5080)| [Take A Quiz](https://forms.gle/vGu155KGiamrUetz8) |
 | Week 3    | Quantum Veto Protocol | Prof. Anirban Pathak, Professor and HOD of Physics and Materials Science and Engineering, JIIT | Wednesday  | July 23, 2025 & 4:00 PM  - 5:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mc878ae5f298b1fb3d2dc501ee456d037)|[Take A Quiz](https://forms.gle/hTFV1CLM95TymNhB8) |
-| Week 4    | Deutsch - Jozsa Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | July 30, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mce95e78096f808bc72100de722f1f6b1)||
+| Week 4    | Deutsch - Jozsa Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | July 30, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mce95e78096f808bc72100de722f1f6b1)|[Take a Quiz](https://forms.gle/9Cea6YqUP5csQf4UA)|
 
 **Note: Session Password:** Quantum@123
 ## FAQ
