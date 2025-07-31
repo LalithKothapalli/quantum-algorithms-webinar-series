@@ -84,8 +84,8 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 - Qniverse [YouTube Channel Link](https://www.youtube.com/@qniversedotin) where all webinar series will be live stream, those who failed to join webinar through wbex link may join YouTube Live Stream.
 - Subscribe to [Quantum Vibes](https://quantumindia.net/quantum-vibes-newsletter-subscription2/) for the latest updates and developments in Quantum Technologies across India.
 
-## Chance to visit the Quantum Photonic Lab & Free Credits on Qniverse
-Interested participants are invited to submit a video testimonial sharing their experience, insights, and feedback on the usage and capabilities of the Qniverse platform. Selected video submissions will be given a special opportunity to visit the Quantum Photonic Lab at C-DAC Bengaluru, where they can witness and engage with a real quantum computing setup firsthand and also the participant shall receive a free 100-credits on Qniverse platform
+## Chance to visit the Quantum Photonic Lab & Earn Free Credits on Qniverse Platform
+Interested participants are invited to submit a video testimonial sharing their experience, insights, and feedback on the usage and capabilities of the Qniverse platform. Selected video submissions will be given a special opportunity to visit the Quantum Photonic Lab at C-DAC Bengaluru, where they can witness and engage with a real quantum computing setup firsthand and also receive a free 100-credits on Qniverse platform
 
 ## Prerequisites 
 Basic knowledge of Quantum Computing and Python
