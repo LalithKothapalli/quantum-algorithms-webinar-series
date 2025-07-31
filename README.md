@@ -70,8 +70,8 @@ available via the [GitHub repository](https://github.com/C-DAC-Bengaluru/Quantum
 ### 12. I want to attend Qniverse Developer Exam to get Certified, How Can I attend?
 • You may send email to qniverse@cdac.in for inquiries, and also, close to the end of the program, we shall announce the details to all the participants.
 
-### 13. I comsumed all my free credits on Qniverse, how can I purchase more credit ?
-• You may send email to qniverse@cdac.in to purchase more credits
+### 13. I consumed all my free credits on Qniverse, how can I purchase more credit ?
+• You may send email to qniverse@cdac.in to purchase more credits. Interested participants are invited to submit a video testimonial sharing their experience, insights, and feedback on the usage and capabilities of the Qniverse platform. Selected video submissions will be given a special opportunity to visit the Quantum Lab at C-DAC Bengaluru, where they can witness and engage with a real quantum computing setup firsthand and also receive a free 100-credits on Qniverse platform.
   
 </Details>
 
