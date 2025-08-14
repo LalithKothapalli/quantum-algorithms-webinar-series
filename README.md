@@ -30,6 +30,7 @@ Webex Online Webinar Platform
 | Week 4    | Deutsch - Jozsa Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | July 30, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mce95e78096f808bc72100de722f1f6b1)|[Take a Quiz](https://forms.gle/bQqTwbcPUN5MwUMr8)|
 | Week 5    | Quantum Fourier Transform & Quantum Phase Estimation Algorithm | Prof. Amlan Chakrabarti, Professor and Director, A.K. Choudhury School of IT, University of Calcutta & Adj. Prof. IIIT Delhi| Wednesday  | August 6, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m0c0146ab1482ea46eb5f5b1a2ff98a53)|[Take a Quiz](https://forms.gle/WV2ec4cg9iAijhyd7)|
 | Week 6    | Shors Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 13, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m395aeb9cd010677cf3f835a9422d4028)|[Take A Quiz](https://forms.gle/2k8EBajs72ZTjzz39)|
+| Week 7    | Bernstein Vazirani Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 20, 2025 & 5:30 PM  - 6:30 PM |||
 
 
 **Note: Session Password:** Quantum@123
