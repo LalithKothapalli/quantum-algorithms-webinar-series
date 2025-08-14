@@ -29,7 +29,7 @@ Webex Online Webinar Platform
 | Week 3    | Quantum Veto Protocol | Prof. Anirban Pathak, Professor and HOD of Physics and Materials Science and Engineering, JIIT | Wednesday  | July 23, 2025 & 4:00 PM  - 5:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mc878ae5f298b1fb3d2dc501ee456d037)|[Take A Quiz](https://forms.gle/hTFV1CLM95TymNhB8) |
 | Week 4    | Deutsch - Jozsa Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | July 30, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=mce95e78096f808bc72100de722f1f6b1)|[Take a Quiz](https://forms.gle/bQqTwbcPUN5MwUMr8)|
 | Week 5    | Quantum Fourier Transform & Quantum Phase Estimation Algorithm | Prof. Amlan Chakrabarti, Professor and Director, A.K. Choudhury School of IT, University of Calcutta & Adj. Prof. IIIT Delhi| Wednesday  | August 6, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m0c0146ab1482ea46eb5f5b1a2ff98a53)|[Take a Quiz](https://forms.gle/WV2ec4cg9iAijhyd7)|
-| Week 6    | Shors Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 13, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m395aeb9cd010677cf3f835a9422d4028)||
+| Week 6    | Shors Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 13, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m395aeb9cd010677cf3f835a9422d4028)|[Take A Quiz](https://forms.gle/2k8EBajs72ZTjzz39)|
 
 
 **Note: Session Password:** Quantum@123
