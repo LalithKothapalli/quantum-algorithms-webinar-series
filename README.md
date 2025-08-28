@@ -1,4 +1,4 @@
-## C-DAC Bangalore Quantum Outreach Program
+ ## C-DAC Bangalore Quantum Outreach Program
 
 # A Webinar Series on Quantum Algorithms Using Qniverse
 
@@ -31,7 +31,7 @@ Webex Online Webinar Platform
 | Week 5    | Quantum Fourier Transform & Quantum Phase Estimation Algorithm | Prof. Amlan Chakrabarti, Professor and Director, A.K. Choudhury School of IT, University of Calcutta & Adj. Prof. IIIT Delhi| Wednesday  | August 6, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m0c0146ab1482ea46eb5f5b1a2ff98a53)|[Take a Quiz](https://forms.gle/WV2ec4cg9iAijhyd7)|
 | Week 6    | Shors Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 13, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m395aeb9cd010677cf3f835a9422d4028)|[Take A Quiz](https://forms.gle/2k8EBajs72ZTjzz39)|
 | Week 7    | Bernstein Vazirani Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 20, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m72a9a8b0f00d52c9be4b638b3af458b5)|[Take A Quiz](https://forms.gle/h837E1eoPJnTLVss5)|
-| Week 8   | Simon's Algorithm | Mr. Tilock Sadhukhan, Project Engineer, C-DAC Bangalore | Wednesday  | August 27, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m523d85aa97400cdb51dc735d606e6563)||
+| Week 8   | Simon's Algorithm | Mr. Tilock Sadhukhan, Project Engineer, C-DAC Bangalore | Wednesday  | August 27, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m523d85aa97400cdb51dc735d606e6563)|[Take a Quiz](https://forms.gle/s9bQJM8bi5eLR9hX8)|
 
 **Note: Session Password:** Quantum@123
 ## FAQ
