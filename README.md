@@ -33,6 +33,7 @@ Webex Online Webinar Platform
 | Week 7    | Bernstein Vazirani Algorithm | Mr. Jothishwaran Arunagiri, Ph.D Scholar| Wednesday  | August 20, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m72a9a8b0f00d52c9be4b638b3af458b5)|[Take A Quiz](https://forms.gle/h837E1eoPJnTLVss5)|
 | Week 8   | Simon's Algorithm | Mr. Tilock Sadhukhan, Project Engineer, C-DAC Bangalore | Wednesday  | August 27, 2025 & 5:30 PM  - 6:30 PM |[Click Here](https://quantumacc.webex.com/quantumacc/j.php?MTID=m523d85aa97400cdb51dc735d606e6563)|[Take a Quiz](https://forms.gle/s9bQJM8bi5eLR9hX8)|
 | Week 9   | Grover's Algorithm | Mr. Harishankar Mishra, Knowledge Associate, C-DAC Bangalore | Wednesday  | September 3, 2025 & 5:30 PM  - 6:30 PM |||
+| Week 10   | Variational Quantum Eigensolver Algorithm | Dr. Manpreet Singh, Chief Adjunct Engineer, C-DAC Pune | Wednesday  | September 10, 2025 & 5:30 PM  - 6:30 PM |||
 
 **Note: Session Password:** Quantum@123
 ## FAQ
